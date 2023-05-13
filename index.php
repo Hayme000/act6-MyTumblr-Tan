@@ -3,10 +3,10 @@
 session_start();
 
 //create a pre defined username and password since we do not have database
-$acc_username = "jbnmurillo";
-$acc_password = "kuso123";
-$acc_fullname = "Julius Benefer N. Murillo";
-$acc_address = "Malbog Boac Marinduque PH";
+$acc_username = "jtan4932";
+$acc_password = "baka123";
+$acc_fullname = "James M. Tan";
+$acc_address = "Villa Mendez Mogpog Marinduque PH";
 
 //check the current url for the redirections later
 $url_add = "http://".$_SERVER['HTTP_HOST'].$_SERVER['PHP_SELF'];
@@ -94,7 +94,7 @@ if(isset($_REQUEST['login_button']) === true){
 
 		      			?>
 
-		      			
+
 		      			<input type="text" class="form-control rounded-left" placeholder="Username" name="form_username" required>
 		      		</div>
 	            <div class="form-group d-flex">
