@@ -54,8 +54,8 @@ body {
 
                     </div>
                     <div class="media-body mb-5 text-white">
-                        <h4 class="mt-0 mb-0">Ryan Clifford L. Perez</h4>
-                        <p class="small mb-4"> <i class="fas fa-map-marker-alt mr-2"></i>Marinduque PH
+                        <h4 class="mt-0 mb-0">James M. Tan</h4>
+                        <p class="small mb-4"> <i class="fas fa-map-marker-alt mr-2"></i>Villa Mendez Mogpog Marinduque PH
                          </p>
                     </div>
                 </div>
